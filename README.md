@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="50%" alt="GoRestaurant" src="https://github.com/wellingtonleitedev/gorestaurant/blob/master/src/assets/logo.svg" />
+    <img width="50%" alt="GoRestaurant" src="https://github.com/wellingtonleitedev/gorestaurant-web/blob/master/src/assets/logo.svg" />
     <br><br>
 </h1>
 
@@ -13,11 +13,11 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/wellingtonleitedev/gorestaurant-mobile.svg">
 
-  <a href="https://github.com/wellingtonleitedev/gorestaurant/commits/master">
+  <a href="https://github.com/wellingtonleitedev/gorestaurant-mobile/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wellingtonleitedev/gorestaurant-mobile.svg">
   </a>
 
-  <a href="https://github.com/wellingtonleitedev/gorestaurant/issues">
+  <a href="https://github.com/wellingtonleitedev/gorestaurant-mobile/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/wellingtonleitedev/gorestaurant-mobile.svg">
   </a>
 
